@@ -1,3 +1,10 @@
+
+# IDE Metadata
+.idea/
+.vs/
+.vscode/
+
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
